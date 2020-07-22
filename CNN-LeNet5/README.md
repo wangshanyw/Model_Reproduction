@@ -3,7 +3,6 @@ Implemented by CNN-LeNet5
 </br>
 
 ## Features
-</br>
 LeNet5 CNN
 </br>
 using Tensorflow 2.x
@@ -13,6 +12,5 @@ Test accuracy up to 98%
 
 
 ## How to run
-</br>
  python3 MNIST.py
  
