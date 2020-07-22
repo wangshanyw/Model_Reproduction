@@ -2,7 +2,7 @@
 Implemented by CNN-LeNet5
 </br>
 
-##Features
+## Features
 </br>
 LeNet5 CNN
 </br>
@@ -12,7 +12,7 @@ Test accuracy up to 98%
 </br>
 
 
-##How to run
+## How to run
 </br>
  python3 MNIST.py
  
